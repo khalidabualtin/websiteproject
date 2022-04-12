@@ -1,0 +1,112 @@
+h1 
+{
+	color: black;
+	font-size: 75px;
+}
+h2 
+{
+	color: ghostwhite;
+	font-size: 50px;
+}
+
+h3
+{
+	color: black;
+	font-size: 25px;
+}
+
+body
+{
+	background-color: royalblue;
+}
+
+div 
+{
+	background: white;
+	width: 500px;
+	height: 500px;
+	border: 20px solid black;
+	padding: 50px;
+	margin: 25px;
+
+}
+
+
+span
+{
+	color: red;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+#content 
+{
+	color: black;
+	text-align: center;
+}
+
+p#content{
+	color: black;
+	text-align: left;
+	font-family:"Comic Sans", sans-serif;
+}
+.games
+{
+	background-color: black;
+	color: white;
+}
+
+.movies
+{
+	background-color: ghostwhite;
+}
+
+
+#gamehead
+{
+	color: white;
+}
+
+ul li 
+{
+	margin: 25px;
+	color: brown;
+}
+#hobby  
+{
+	background-color: burlywood;
+}
+
+#hobby h1
+{
+	color: whitesmoke;
+}
+#job 
+{
+	background-color: darkviolet;
+}
+#job p 
+{
+	color: white;
+}
+
+table 
+{
+	color: white;
+	text-align: center;
+	margin: 15%;
+
+
+}
+
+
+
+
+.short
+{
+	width: 400px;
+	height: 166px;
+	padding: 25px;
+	margin: 25px;
+
+}
